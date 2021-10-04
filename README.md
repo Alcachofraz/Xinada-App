@@ -42,7 +42,7 @@ This is the scoring page. Select the players who won this round.
 
 <img src="https://user-images.githubusercontent.com/75852333/135855074-6db12b00-872a-4073-b0a1-acc06ba77ee5.png" width="280px">
 
-Then we get back to this page with the players' points. In this case, it was a 1 round game, so the options are "play again" or "finish". If there were more roudns to be played, the "play again" button would be replaced by a "start round x" button.
+Then we get back to this page with the players' points. In this case, it was a 1 round game, so the options are "play again" or "finish". If there were more rounds to be played, the "play again" button would be replaced by a "start round x" button.
 
 <img src="https://user-images.githubusercontent.com/75852333/135855490-a51bc357-f85f-40c1-b67c-c5f4b7dfcabf.png" width="280px">
 
