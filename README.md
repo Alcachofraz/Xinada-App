@@ -10,7 +10,7 @@ Of course, not with actual knifes and pistols! No one needs to get hurt! We norm
 
 First of all, you'll need to configure the game. This is the main page:
 
-<img src="https://user-images.githubusercontent.com/75852333/135852824-73b3430a-cb00-47cd-bb27-5483aa7696d2.png" width="720px">
+<img src="https://user-images.githubusercontent.com/75852333/135852824-73b3430a-cb00-47cd-bb27-5483aa7696d2.png" width="420px">
 
 In the gear icon you can access the settings menu, where 1 of 6 idioms can be selected. In that menu you can also set the role pool for the game, i.e. which roles can be drawn.
 
