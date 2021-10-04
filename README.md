@@ -16,10 +16,10 @@ In the gear icon you can access the settings menu, where 1 of 6 idioms can be se
 
 After you select the number of rounds and the number of players, you'll have to enter every player's name.
 
-![Screenshot_1633349111](https://user-images.githubusercontent.com/75852333/135853395-61d547c3-cf52-4eb9-9547-ec46ed6fdb9c.png)
+<img src="https://user-images.githubusercontent.com/75852333/135853395-61d547c3-cf52-4eb9-9547-ec46ed6fdb9c.png" width="280px">
 
 There's a progress bar indicating how many players are left to enter their name.
 
-![Screenshot_1633349135](https://user-images.githubusercontent.com/75852333/135853468-c4d2b3d0-eb67-4465-92be-fa202a3c09df.png)
+<img src="https://user-images.githubusercontent.com/75852333/135853468-c4d2b3d0-eb67-4465-92be-fa202a3c09df.png" width="280px">
 
 The game is about to start:
