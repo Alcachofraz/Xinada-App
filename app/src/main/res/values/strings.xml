@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xinada</string>
+
+    <string name="cop">Cop</string>
+    <string name="murderer">Assassin</string>
+    <string name="doctor">Doctor</string>
+    <string name="phantom">Phantom</string>
+    <string name="guru">Guru</string>
+    <string name="thief">Thief</string>
+    <string name="gravedigger">Gravedigger</string>
+    <string name="traitor">Traitor</string>
+    <string name="accomplice">Accomplice</string>
+    <string name="devil">Devil</string>
+    <string name="promoter">Promoter</string>
+    <string name="negotiator">Negotiator</string>
+    <string name="jester">Jester</string>
+    <string name="innocent">Innocent</string>
+
+    <string name="cop_description">Your objective is to kill the Assassin(s).</string>
+    <string name="murderer_description">Your objective is to kill everything and everyone.</string>
+    <string name="doctor_description">You can revive whoever you want by resting your hand on that player\'s shoulder for 3 seconds.</string>
+    <string name="phantom_description">When you die, you can heal other players around you with a wink.</string>
+    <string name="guru_description">Tap twice on the back of another player, and he is forced to raise the knife if he is the Assassin.</string>
+    <string name="thief_description">You can transform into another character by placing both hands on another live player\'s shoulders. The player will whisper a character of their own.</string>
+    <string name="gravedigger_description">You can transform into another character by placing 2 hands on another dead player\'s shoulders. The player will whisper a character of their own.</string>
+    <string name="traitor_description">If you are killed by the Assassin, you resurrect and become a 2nd Assassin.</string>
+    <string name="accomplice_description">If you can make sense of the Assassin that you\'re the Accomplice, he can lend you his face.</string>
+    <string name="devil_description">Tens the power to merge as souls of 2 other players. That is, when one of them dies, the other dies too.</string>
+    <string name="promoter_description">When you exchange pistols with another player, promote him to the Police, so there are 2 Police in the game.</string>
+    <string name="negotiator_description">With a handshake, you start a partnership with another player. When you die he can heal you, or vice versa.</string>
+    <string name="jester_description">You only have one goal: Get killed by the police.</string>
+    <string name="innocent_description">That\'s it.</string>
+
+    <string name="proceed">Continue</string>
+    <string name="write_name">Write your name</string>
+    <string name="player">Player</string>
+    <string name="how_many_rounds">How many rounds?</string>
+    <string name="how_many_players">How many players are there?</string>
+    <string name="start_round">Start Round %d</string>
+    <string name="points">Points</string>
+    <string name="show">Show</string>
+    <string name="next">Next</string>
+    <string name="error">An error has occurred</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="you_are_the">%s, you are the</string>
+    <string name="reveal">Reveal</string>
+    <string name="round">Round %d</string>
+    <string name="end">Finish</string>
+    <string name="play_again">Play Again</string>
+    <string name="who_won">Who won?</string>
+    <string name="name_already_set">This name has already been chosen</string>
+    <string name="someone_must_have_won">Someone must have won!</string>
+    <string name="draw">It\'s a tie!</string>
+    <string name="won">Congratulations, %s! You are the winner!</string>
+    <string name="cannot_uncheck_role">" You cannot remove this role"</string>
+    <string name="at_least_three_roles">You have to select at least 3 characters</string>
+</resources>

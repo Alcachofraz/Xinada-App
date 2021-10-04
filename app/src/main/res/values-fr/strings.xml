@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xinada</string>
+
+    <string name="cop">Policiers</string>
+    <string name="murderer">Assassin</string>
+    <string name="doctor">Docteur</string>
+    <string name="phantom">Fantôme</string>
+    <string name="guru">Gourou</string>
+    <string name="thief">Voleur</string>
+    <string name="gravedigger">Fossoyeur</string>
+    <string name="traitor">Traître</string>
+    <string name="accomplice">Complice</string>
+    <string name="devil">Diable</string>
+    <string name="promoter">Promoteur</string>
+    <string name="negotiator">Négociateur</string>
+    <string name="jester">Bobo</string>
+    <string name="innocent">Innocent</string>
+
+    <string name="cop_description">Votre objectif est de tuer le(s) Assassin(s).</string>
+    <string name="murderer_description">Votre objectif est de tuer tout et tout le monde.</string>
+    <string name="doctor_description">Vous pouvez faire revivre qui vous voulez en posant votre main sur l\'épaule de ce joueur pendant 3 secondes.</string>
+    <string name="phantom_description">Lorsque vous mourez, vous pouvez soigner les autres joueurs autour de vous en un clin d\'œil.</string>
+    <string name="guru_description">Tapez deux fois sur le dos d\'un autre joueur, et il est obligé de lever le couteau s\'il est l\'Assassin.</string>
+    <string name="thief_description">Vous pouvez vous transformer en un autre personnage en plaçant vos deux mains sur les épaules d\'un autre joueur vivant. Le joueur chuchotera un personnage qui lui est propre.</string>
+    <string name="gravedigger_description">Vous pouvez vous transformer en un autre personnage en plaçant 2 mains sur les épaules d\'un autre joueur mort. Le joueur chuchotera un personnage qui lui est propre.</string>
+    <string name="traitor_description">Si vous êtes tué par l\'Assassin, vous ressuscitez et devenez un 2ème Assassin.</string>
+    <string name="accomplice_description">Si vous pouvez comprendre que l\'Assassin est le Complice, il peut vous prêter son visage.</string>
+    <string name="devil_description">Tens le pouvoir de fusionner en tant qu\'âmes de 2 autres joueurs. C\'est-à-dire que lorsque l\'un d\'eux meurt, l\'autre meurt aussi.</string>
+    <string name="promoter_description">Lorsque vous échangez des pistolets avec un autre joueur, promouvez-le dans la police, il y a donc 2 policiers dans le jeu.</string>
+    <string name="negotiator_description">Avec une poignée de main, vous démarrez un partenariat avec un autre joueur. Quand vous mourez, il peut vous guérir, ou vice versa.</string>
+    <string name="jester_description">Vous n\'avez qu\'un seul objectif : vous faire tuer par la police.</string>
+    <string name="innocent_description">C\'est ça.</string>
+
+    <string name="proceed">Continuer</string>
+    <string name="write_name">Écrivez votre nom</string>
+    <string name="player">Joueur</string>
+    <string name="how_many_rounds">Combien de tours?</string>
+    <string name="how_many_players">Combien y a-t-il de joueurs?</string>
+    <string name="start_round">Démarrer Le Tour %d</string>
+    <string name="points">Points</string>
+    <string name="show">Afficher</string>
+    <string name="next">Suivant</string>
+    <string name="error">Une erreur s\'est produite</string>
+    <string name="invalid_name">Nom invalide</string>
+    <string name="you_are_the">%s, vous êtes le</string>
+    <string name="reveal">Révéler</string>
+    <string name="round">Rond %d</string>
+    <string name="end">Finition</string>
+    <string name="play_again">Rejouer</string>
+    <string name="who_won">Qui a gagné?</string>
+    <string name="name_already_set">Ce nom a déjà été choisi</string>
+    <string name="someone_must_have_won">Quelqu\'un a dû gagner!</string>
+    <string name="draw">C\'est une cravate!</string>
+    <string name="won">Félicitations, %s! Tu es le vainqueur!</string>
+    <string name="cannot_uncheck_role">Vous ne pouvez pas supprimer ce caractère</string>
+    <string name="at_least_three_roles">Vous devez sélectionner au moins 3 caractères</string>
+</resources>

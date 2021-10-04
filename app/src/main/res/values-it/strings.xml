@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xinada</string>
+
+    <string name="cop">Polizia</string>
+    <string name="murderer">Assassino</string>
+    <string name="doctor">Dottore</string>
+    <string name="phantom">Fantasma</string>
+    <string name="guru">Guru</string>
+    <string name="thief">ladro</string>
+    <string name="gravedigger">Becchino</string>
+    <string name="traitor">Traditore</string>
+    <string name="accomplice">complice</string>
+    <string name="devil">Diavolo</string>
+    <string name="promoter">Promotore</string>
+    <string name="negotiator">Negoziatore</string>
+    <string name="jester">Bobo</string>
+    <string name="innocent">Innocente</string>
+
+    <string name="cop_description">Il tuo obiettivo è uccidere gli Assassini.</string>
+    <string name="murderer_description">Il tuo obiettivo è uccidere tutto e tutti.</string>
+    <string name="doctor_description">Puoi rianimare chi vuoi appoggiando la mano sulla spalla di quel giocatore per 3 secondi.</string>
+    <string name="phantom_description">Quando muori, puoi curare gli altri giocatori intorno a te con un occhiolino.</string>
+    <string name="guru_description">Tocca due volte la schiena di un altro giocatore e sarà costretto ad alzare il coltello se è l\'Assassino.</string>
+    <string name="thief_description">Puoi trasformarti in un altro personaggio mettendo entrambe le mani sulle spalle di un altro giocatore dal vivo. Il giocatore sussurrerà un proprio personaggio.</string>
+    <string name="gravedigger_description">Puoi trasformarti in un altro personaggio mettendo 2 mani sulle spalle di un altro giocatore morto. Il giocatore sussurrerà un proprio personaggio.</string>
+    <string name="traitor_description">Se vieni ucciso dall\'Assassino, resusciti e diventi un 2° Assassino.</string>
+    <string name="accomplice_description">Se riesci a dare un senso all\'Assassino che sei il Complice, può prestarti la sua faccia.</string>
+    <string name="devil_description">Tens il potere di fondersi come anime di altri 2 giocatori. Cioè, quando uno di loro muore, muore anche l\'altro.</string>
+    <string name="promoter_description">Quando scambi le pistole con un altro giocatore, promuovilo alla Polizia, così ci sono 2 Polizia nel gioco.</string>
+    <string name="negotiator_description">Con una stretta di mano, inizi una partnership con un altro giocatore. Quando muori può guarirti, o viceversa.</string>
+    <string name="jester_description">Hai un solo obiettivo: farti uccidere dalla polizia.</string>
+    <string name="innocent_description">Questo è tutto.</string>
+
+    <string name="proceed">Continua</string>
+    <string name="write_name">Scrivi il tuo nome</string>
+    <string name="player">Giocatore</string>
+    <string name="how_many_rounds">Quanti giri?</string>
+    <string name="how_many_players">Quanti giocatori ci sono?</string>
+    <string name="start_round">Inizio Round %d</string>
+    <string name="points">Punti</string>
+    <string name="show">Mostra</string>
+    <string name="next">Successivo</string>
+    <string name="error">Si è verificato un errore</string>
+    <string name="invalid_name">Nome non valido</string>
+    <string name="you_are_the">%s, tu sei il</string>
+    <string name="reveal">Rivela</string>
+    <string name="round">Round %d</string>
+    <string name="end">Finitura</string>
+    <string name="play_again">Gioca Di Nuovo</string>
+    <string name="who_won">Chi ha vinto?</string>
+    <string name="name_already_set">Questo nome è già stato scelto</string>
+    <string name="someone_must_have_won">Qualcuno deve aver vinto!</string>
+    <string name="draw">È una cravatta!</string>
+    <string name="won">Congratulazioni, %s! Sei il vincitore!</string>
+    <string name="cannot_uncheck_role">Non puoi rimuovere questo personaggio</string>
+    <string name="at_least_three_roles">Devi selezionare almeno 3 caratteri</string>
+</resources>

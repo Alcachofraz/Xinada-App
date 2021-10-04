@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xinada</string>
+
+    <string name="cop">Полиция</string>
+    <string name="murderer">Убийца</string>
+    <string name="doctor">Доктор</string>
+    <string name="phantom">Призрак</string>
+    <string name="guru">Гуру</string>
+    <string name="thief">Вор</string>
+    <string name="gravedigger">Могильщик</string>
+    <string name="traitor">Предатель</string>
+    <string name="accomplice">Сообщник</string>
+    <string name="devil">Дьявол</string>
+    <string name="promoter">Промоутер</string>
+    <string name="negotiator">Переговорщик</string>
+    <string name="jester">Бобо</string>
+    <string name="innocent">Невинный</string>
+
+    <string name="cop_description">Ваша цель - убить Ассасина (ов).</string>
+    <string name="murderer_description">Ваша цель - убить всех и вся.</string>
+    <string name="doctor_description">Вы можете оживить кого угодно, положив руку на плечо этого игрока на 3 секунды.</string>
+    <string name="phantom_description">Когда вы умираете, вы можете подмигивать другим игрокам вокруг вас.</string>
+    <string name="guru_description">Дважды нажмите на спину другого игрока, и он будет вынужден поднять нож, если он Убийца.</string>
+    <string name="thief_description">Вы можете превратиться в другого персонажа, положив обе руки на плечи другого живого игрока. Игрок будет шептать своего персонажа.</string>
+    <string name="gravedigger_description">Вы можете превратиться в другого персонажа, положив две руки на плечи другого мертвого игрока. Игрок будет шептать своего персонажа.</string>
+    <string name="traitor_description">Если вас убил Ассасин, вы воскреснете и станете вторым ассасином.</string>
+    <string name="accomplice_description">Если вы сможете понять, что Убийца - соучастник, он сможет предоставить вам свое лицо.</string>
+    <string name="devil_description">Десятки возможностей слиться в виде душ 2-х других игроков. То есть, когда один из них умирает, умирает и другой.</string>
+    <string name="promoter_description">Когда вы обмениваетесь пистолетами с другим игроком, продвигайте его в полицию, чтобы в игре было 2 полицейских.</string>
+    <string name="negotiator_description">Рукопожатием вы начинаете партнерство с другим игроком. Когда вы умираете, он может вас исцелить, или наоборот.</string>
+    <string name="jester_description">У вас только одна цель: быть убитым полицией.</string>
+    <string name="innocent_description">Вот и все.</string>
+
+    <string name="proceed">Продолжить</string>
+    <string name="write_name">Напишите свое имя</string>
+    <string name="player">Игрок</string>
+    <string name="how_many_rounds">Сколько раундов?</string>
+    <string name="how_many_players">Сколько игроков?</string>
+    <string name="start_round">Начало раунда %d</string>
+    <string name="points">Очки</string>
+    <string name="show">Показать</string>
+    <string name="next">Далее</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="invalid_name">Неверное имя</string>
+    <string name="you_are_the">%s, ты</string>
+    <string name="reveal">Раскрыть</string>
+    <string name="round">Раунд %d</string>
+    <string name="end">Готово</string>
+    <string name="play_again">Играть снова</string>
+    <string name="who_won">Кто выиграл?</string>
+    <string name="name_already_set">Это имя уже выбрано</string>
+    <string name="someone_must_have_won">Кто-то наверняка выиграл!</string>
+    <string name="draw">Это галстук!</string>
+    <string name="won">Поздравляю, %s! Ты победитель!</string>
+    <string name="cannot_uncheck_role">Вы не можете удалить этого персонажа</string>
+    <string name="at_least_three_roles">Вы должны выбрать минимум 3 символа</string>
+</resources>

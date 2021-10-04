@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#700000</color>
+    <color name="secondary">#470000</color>
+    <color name="accent">#9C0000</color>
+    <color name="info">#1E95ED</color>
+    <color name="piano">#AC7777</color>
+    <color name="gears">#B3B3B3</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="RED">#880000</color>
+    <color name="BLUE">#007ED1</color>
+    <color name="BLACK">#000000</color>
+</resources>
