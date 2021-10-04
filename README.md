@@ -36,11 +36,11 @@ The role should appear. Now click "next" to see which player is next. Give them 
 
 Now you should see a "reveal" button. You'll leave the phone on this page while you play the game. When it ends, come back and reveal the roles.
 
-<img src="https://user-images.githubusercontent.com/75852333/135855074-6db12b00-872a-4073-b0a1-acc06ba77ee5.png" width="280px">
+<img src="https://user-images.githubusercontent.com/75852333/135855734-2c65cd9f-3804-4837-a999-773f1ee4f2a7.png" width="280px">
 
 This is the scoring page. Select the players who won this round.
 
-<img src="https://user-images.githubusercontent.com/75852333/135855194-aade7346-8657-434d-8a50-574668577d89.png" width="280px">
+<img src="https://user-images.githubusercontent.com/75852333/135855074-6db12b00-872a-4073-b0a1-acc06ba77ee5.png" width="280px">
 
 Then we get back to this page with the players' points. In this case, it was a 1 round game, so the options are "play again" or "finish". If there were more roudns to be played, the "play again" button would be replaced by a "start round x" button.
 
